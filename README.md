@@ -14,3 +14,7 @@
  - 如何使用HTTP server 達到暫存播放( objective c)
 4. [AAC帧格式及编码介绍](http://blog.csdn.net/sunnylgz/article/details/7676340)
  - 介紹AAC的數據組成
+
+#### Internet
+1. [關於iOS10ATS的問題](https://onevcat.com/2016/06/ios-10-ats/)
+ - HTTPs and HTTP的問題
