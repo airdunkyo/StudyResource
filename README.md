@@ -16,6 +16,7 @@
  - 介紹AAC的數據組成
 5. [带缓存功能的视频播放器](http://www.jianshu.com/p/0cb298eaa4f7)
  - 不說了,裡面竟然有介紹HTTP格式的說明 嗚嗚嗚嗚
+ 
 #### Internet
 1. [關於iOS10ATS的問題](https://onevcat.com/2016/06/ios-10-ats/)
  - HTTPs and HTTP的問題
