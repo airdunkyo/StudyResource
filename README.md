@@ -28,6 +28,7 @@
 #### Internet
 1. [關於iOS10ATS的問題](https://onevcat.com/2016/06/ios-10-ats/)
  - HTTPs and HTTP的問題
+2. [Data Networks (2nd Edition)](http://web.mit.edu/dimitrib/www/datanets.html)
 
 #### Server
 1. [GCDWebServer](https://github.com/swisspol/GCDWebServer)
