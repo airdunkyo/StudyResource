@@ -2,8 +2,15 @@
 
 ##iOS resource
 
-### objective c
+#### objective c
 
+#### Swift
+1. [Swift Taiwan github](https://github.com/swift-tw)
+ - Swift Taiwan 
+2. [Swift.org](https://swift.org/)
+ -
+3. [APPCODA - Swift](http://www.appcoda.com.tw/category/swift/)
+ - APPCODA about swift
 #### Audio 
 
 1. [碼農人生](http://msching.github.io/blog/categories/ios-audio/)
