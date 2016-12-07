@@ -15,8 +15,19 @@
 4. [AAC帧格式及编码介绍](http://blog.csdn.net/sunnylgz/article/details/7676340)
  - 介紹AAC的數據組成
 5. [带缓存功能的视频播放器](http://www.jianshu.com/p/0cb298eaa4f7)
- - 不說了,裡面竟然有介紹HTTP格式的說明 嗚嗚嗚嗚
- 
+ - 介紹HTTP request of AVplayer
+6. [TBPlayer](https://github.com/suifengqjn/TBPlayer)
+ - sample code
+7. [iOS视频边下边播--缓存播放数据流](http://www.jianshu.com/p/990ee3db0563)
+ - 參考resourceloader的實作
+8. [iOS音视频实现边下载边播放](http://sky-weihao.github.io/2015/10/06/Video-streaming-and-caching-in-iOS/)
+ - 參考文章
+9. [BMPlayer](https://github.com/BrikerMan/BMPlayer)
+ - 強大的AVPlayer實作
 #### Internet
 1. [關於iOS10ATS的問題](https://onevcat.com/2016/06/ios-10-ats/)
  - HTTPs and HTTP的問題
+
+#### Server
+1. [GCDWebServer](https://github.com/swisspol/GCDWebServer)
+ - Swift server on iOS 
