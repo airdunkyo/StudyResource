@@ -42,8 +42,12 @@
  - Swift server on iOS 
 
 #### Google API
-1. [GOOGLE Client for REST](https://github.com/google/google-api-objectivec-client-for-rest)
- - Goo
+1. [OAuth2.0 Protocol](https://oauth.net/2/)
+ - Official document of OAuth 2.0
+2. [GOOGLE Client for REST](https://github.com/google/google-api-objectivec-client-for-rest)
+ - Third party library to use Google service and Google OAuth
+3. [YouTube Livestreaming API](https://developers.google.com/youtube/v3/live/getting-started)
+ - YouTube LiveStreaming API introduction and officail document
  
 #### Test for iOS APP
 1. [Quick](https://github.com/Quick/Quick)
