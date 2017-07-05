@@ -3,6 +3,9 @@
 ##iOS resource
 
 #### objective c
+1. [Clang static analyzer](http://clang-analyzer.llvm.org/)
+ - Official site
+2. [Clang blog - SHINING的博客] (http://blog.csdn.net/snsn1984/article/category/1249418/5)
 
 #### Swift
 1. [Swift Taiwan github](https://github.com/swift-tw)
