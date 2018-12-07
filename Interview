@@ -1,0 +1,39 @@
+let view = UIView()
+
+please print all hirechy of subviews .
+
+Like following LLDB command 
+po [[UIWindow keyWindow] recursiveDescription]
+
+
+
+- v
+    -v
+        -v
+        -v 
+    -v
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+
+
+
+ Recursive
+
+
+ Non-recursive
+
+
+ Apple internal API
+
+ extension UIView {
+
+   // Prints results of internal Apple API method `recursiveDescription` to console.
+   public func dump() {
+      Swift.print(perform(Selector(("recursiveDescription"))))
+   }
+}
